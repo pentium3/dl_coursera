@@ -1,0 +1,22 @@
+Deep Learning Specialization
+
+Course 1 Neural Networks and Deep Learning
+Logistic Regression with a Neural Network mindset
+Planar data classification with a hidden layer
+Building your deep neural network: Step by Step
+Deep Neural Network Application
+
+Course 2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Initialization
+Regularization
+Gradient Checking
+Optimization
+Tensorflow
+
+Course 3 Structuring Machine Learning Projects
+
+Course 4 Convolutional Neural Networks
+
+Course 5 Sequence Models
+
+
